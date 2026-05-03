@@ -1,0 +1,16 @@
+h2{
+    color: blue;
+}
+
+button{
+    background-color: brown;
+    border: none;
+    height: 30px;
+    width: 20%;
+    border-radius: 15px;
+    color: aliceblue;
+}
+a :hover{
+    background-color: white;
+    color: black;
+}
